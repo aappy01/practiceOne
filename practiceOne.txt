@@ -1,0 +1,24 @@
+Navbar logo;
+color: yellow
+left margin: 30px
+Size: 36px
+
+Section Heading;
+Size= 50px
+Weight= 500
+
+Section;
+top and bottom margin  = 2% 
+left and right margin  = 5%
+
+Section Paragraph;
+color = orange
+font-size = 20px
+font-family = Georgia
+padding = 16px
+
+Section Image;
+margin = 12px
+width = 700px
+height = 400px
+border-radius = 20px
